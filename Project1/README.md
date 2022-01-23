@@ -1,0 +1,1 @@
+Wczytuje punkty pomiarowe z różnych plików tekstowych, a następnie łączy je i zapisuje do pliku tekstowego.
